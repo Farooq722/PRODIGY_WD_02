@@ -6,7 +6,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-image: url(imgs/linear\ img.jpg);
+    background-image: url(linear\ img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
